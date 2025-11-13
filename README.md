@@ -1,6 +1,11 @@
 # namer_app
 
 A new Flutter project.
+![alt text](image.png)
+
+# learningdart
+
+self-learning in Yutube
 
 ## Getting Started
 
